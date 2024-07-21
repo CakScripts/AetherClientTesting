@@ -1,3 +1,6 @@
+--if you leak or skid your black i didnt even try to hide lmfao
+
+
 repeat task.wait() until game:IsLoaded()
 
 local library = {}
