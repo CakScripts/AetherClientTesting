@@ -2,7 +2,8 @@ local users = {"grrgzxcdrc"}
 
     for _, user in pairs(users) do
         if playerName == player.Name then
-            
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/CakScripts/AetherClientTesting/main/MainScript
+"))()
         else
             player:Kick("This is a private loadstring for testers, You do not have access to use this version of AetherClient")
         end
