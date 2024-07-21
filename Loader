@@ -1,4 +1,4 @@
-local users = {"grrgzxcdrc"}
+local users = {"grrgzxcdrc","BedWarsAlexx"}
 
     for _, user in pairs(users) do
         if playerName == player.Name then
